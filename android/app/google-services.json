@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "878030811203",
+    "project_id": "ichat-3bf50",
+    "storage_bucket": "ichat-3bf50.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878030811203:android:09e8e169d5d2d5f73e64f6",
+        "android_client_info": {
+          "package_name": "nabh.messenger.org"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "878030811203-idrvh7efk0960k92bq8r40almglaf4op.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "nabh.messenger.org",
+            "certificate_hash": "84301bb7d606a8386600590d92f2ab55d99b0b60"
+          }
+        },
+        {
+          "client_id": "878030811203-qqlefprvkb1mp5vdi1p5qfun4t95dtn6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDO5TGyzNdRx8UfngLOijswzGCZOEhWWfA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "878030811203-qqlefprvkb1mp5vdi1p5qfun4t95dtn6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
